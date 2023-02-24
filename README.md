@@ -1,2 +1,2 @@
 # HITO-LM-2T
-Hay que meter las imagenes en una carpeta img y el styles en una carpeta estilos
+Es un archivo .rar para descargar todo lo necesario metido ya en carpetas
